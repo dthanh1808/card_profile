@@ -27,7 +27,7 @@
                 const container = document.querySelector('.container');
                 container.innerHTML = `
           <div class="profile-card">
-            <h1>Thông tin cá nhân</h1>
+            <h1>THÔNG TIN CÁ NHÂN</h1>
             <img src="${reader.result}" alt="Ảnh cá nhân">
             <div class="title-card">
               <h3>${name}</h3>
